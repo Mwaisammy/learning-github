@@ -1,4 +1,5 @@
-## Hello everyone welcome to my git guide!
+## Welcome to Github
 
 - Yoo Johnny here
+- I'm adding this from dev sam branch
 - I'm adding this from feature branch
